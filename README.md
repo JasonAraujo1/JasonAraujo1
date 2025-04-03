@@ -13,7 +13,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonAraujo1&layout=compact&theme=default&bg_color=F8F9FA" width="45%" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonAraujo1&layout=compact&theme=default&bg_color=F8F9FA" width="42%" height="200">
     <img src="https://github-readme-stats.vercel.app/api?username=JasonAraujo1&show_icons=true&theme=default&bg_color=F8F9FA" width="48%" height="200">
   </div>
 </div>
