@@ -12,8 +12,8 @@
 
 ## 📊 GitHub Stats
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonAraujo1&layout=compact&theme=tokyonight)
-![Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=JasonAraujo1&theme=dracula)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JasonAraujo1&show_icons=true&theme=radical)
+![Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=JasonAraujo1&theme=dracula)
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/araujojason)
