@@ -11,7 +11,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ## 📊 GitHub Stats
-<div align="center" display="flex">
+<div align="center" display="flex" justify="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonAraujo1&layout=compact&theme=default&bg_color=F8F9FA" width="40%" height="160">
   <img src="https://github-readme-stats.vercel.app/api?username=JasonAraujo1&show_icons=true&theme=default&bg_color=F8F9FA" width="40%" height="190">
 </div>
