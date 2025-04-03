@@ -18,9 +18,7 @@
   </div>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JasonAraujo1&theme=github-light" width="80%" height="150">
-</div>
+
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/araujojason)
