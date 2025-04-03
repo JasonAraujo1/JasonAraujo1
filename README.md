@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JasonAraujo1&theme=github-light" width="80%" height="150">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JasonAraujo1&theme=github-light" width="100%" height="150">
 </div>
 
 ## 📫 Connect with me
