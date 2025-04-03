@@ -1,47 +1,20 @@
-👋 Hello, I'm Jason Araujo
+# 👋 Hi, I’m Jason Araujo
 
-I'm a web developer passionate about building efficient, scalable, and user-friendly solutions. I have experience in front-end development, API integration, and creating systems tailored to specific professional needs.
+🚀 **Web Developer | Clean Code Enthusiast | Fitness & Tech**
 
-🚀 About Me
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-💻 Web Development Enthusiast | Focused on clean and efficient code
+## 📊 GitHub Stats
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonAraujo1&layout=compact&theme=tokyonight)
+![Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=JasonAraujo1&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JasonAraujo1&show_icons=true&theme=radical)
 
-🎯 Problem-Solver | Love tackling real-world challenges with technology
-
-📈 Continuous Learner | Always exploring new technologies to enhance my projects
-
-🏋️‍♂️ Fitness & Tech | Passionate about integrating technology into fitness solutions
-
-🛠️ Technologies & Tools
-
-Languages & Frameworks:
-
-
-
-
-
-Styling:
-
-
-
-Tools & Other Technologies:
-
-
-
-
-
-🌟 Featured Projects
-
-🔹 Vôlei Quadras - A platform for managing and renting volleyball courts, built with React, Tailwind CSS, and Chakra UI.
-🔹 DevStore - An e-commerce platform for pet clothing, developed using Next.js, Tailwind CSS, and Zod.
-
-📬 How to reach me
-
-
-
-📊 GitHub Stats
-
-
-
-
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/araujojason)
 
