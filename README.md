@@ -5,6 +5,6 @@
 📫 How to reach me: [www.linkedin.com/in/araujojason]
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love combining my fitness expertise with tech projects and enjoy solving real-world problems through development. 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
-![Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=dracula)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonAraujo1&layout=compact&theme=tokyonight)
+![Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=JasonAraujo1&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JasonAraujo1&show_icons=true&theme=radical)
