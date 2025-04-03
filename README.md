@@ -11,12 +11,17 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ## 📊 GitHub Stats
-<div align="center" display="flex" justify="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonAraujo1&layout=compact&theme=default&bg_color=F8F9FA" width="40%" height="160">
-  <img src="https://github-readme-stats.vercel.app/api?username=JasonAraujo1&show_icons=true&theme=default&bg_color=F8F9FA" width="40%" height="190">
+<div align="center">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonAraujo1&layout=compact&theme=default&bg_color=F8F9FA" width="48%" height="200">
+    <img src="https://github-readme-stats.vercel.app/api?username=JasonAraujo1&show_icons=true&theme=default&bg_color=F8F9FA" width="48%" height="200">
+  </div>
 </div>
 
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JasonAraujo1&theme=github-light" width="80%" height="150">
+</div>
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/araujojason)
+
