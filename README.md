@@ -16,9 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JasonAraujo1&show_icons=true&theme=default&bg_color=F8F9FA" width="40%" height="190">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JasonAraujo1&theme=github-light" width="100%" height="150">
-</div>
+
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/araujojason)
